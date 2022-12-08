@@ -18,4 +18,4 @@ let factor = 1;
     factor *= i;
   }
   return factor;
-}
+};
